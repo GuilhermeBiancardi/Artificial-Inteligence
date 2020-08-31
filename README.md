@@ -1,13 +1,13 @@
 # Artificial-Intelligence
- Informational repository on learning and AI-related Systems.
+ Informativo sobre repositórios de IA.
 
 ## Deep Neural Network:
 
- * [Neural Network in PHP.](https://github.com/GuilhermeBiancardi/Neural-Network-PHP): A aprendizagem profunda, do inglês Deep Learning (também conhecida como aprendizado estruturado profundo, aprendizado hierárquico ou aprendizado de máquina profundo) é um ramo de aprendizado de máquina (Machine Learning) baseado em um conjunto de algoritmos que tentam modelar abstrações de alto nível de dados usando um grafo profundo com várias camadas de processamento, compostas de várias transformações lineares e não lineares.
+ * [Neural Network in PHP](https://github.com/GuilhermeBiancardi/Neural-Network-PHP): A aprendizagem profunda, do inglês Deep Learning (também conhecida como aprendizado estruturado profundo, aprendizado hierárquico ou aprendizado de máquina profundo) é um ramo de aprendizado de máquina (Machine Learning) baseado em um conjunto de algoritmos que tentam modelar abstrações de alto nível de dados usando um grafo profundo com várias camadas de processamento, compostas de várias transformações lineares e não lineares.
 
 ## Classification Methods
 
- * [Navy Bayes in PHP.](https://github.com/GuilhermeBiancardi/NavyBayes-class): Em estatística, os classificadores Naive Bayes são uma família de "classificadores probabilísticos" simples, baseados na aplicação do teorema de Bayes com fortes pressupostos de independência entre os recursos. Eles estão entre os modelos de rede bayesianos mais simples.
+ * [Navy Bayes in PHP](https://github.com/GuilhermeBiancardi/NavyBayes-class): Em estatística, os classificadores Naive Bayes são uma família de "classificadores probabilísticos" simples, baseados na aplicação do teorema de Bayes com fortes pressupostos de independência entre os recursos. Eles estão entre os modelos de rede bayesianos mais simples.
 
 ## IA Activation Functions
 
