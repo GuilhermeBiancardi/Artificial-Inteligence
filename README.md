@@ -8,6 +8,9 @@
 ## Classification Methods
 
  * [Navy Bayes in PHP](https://github.com/GuilhermeBiancardi/NavyBayes-class): Em estatística, os classificadores Naive Bayes são uma família de "classificadores probabilísticos" simples, baseados na aplicação do teorema de Bayes com fortes pressupostos de independência entre os recursos. Eles estão entre os modelos de rede bayesianos mais simples.
+ 
+## Math
+* [Linear Regression](https://github.com/GuilhermeBiancardi/LinearRegression): A análise de regressão linear é usada para prever o valor de uma variável com base no valor de outra.
 
 ## IA Activation Functions
 
